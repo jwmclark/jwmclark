@@ -1,5 +1,5 @@
 <h1 align="center">Justin Clark</h1>
-<h3 align="center">Director, Processors @ PayNearMe</h3>
+<h3 align="center">Co-Founder & Consultant @ Strux Systems</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
